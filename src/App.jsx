@@ -15,7 +15,7 @@ export default function App() {
       </section>
 
       <footer>
-        <a href="https://github.com/rafao2538/QuarentaEUmaPessoasN-oOlharamIssoNoM-nimo/tree/main/src"><img src={ghubLogo} alt="" id="ghub"/></a>
+        <a href="https://github.com/rafao2538/QuarentaEUmaPessoasN-oOlharamIssoNoM-nimo"><img src={ghubLogo} alt="" id="ghub"/></a>
       </footer>
     </>
   );
