@@ -1,0 +1,56 @@
+body{
+    background: #003B57;
+}
+main{
+    width: 100%;
+    height: 100vh;
+}
+section{
+    box-sizing: border-box;
+    width: 55%;
+    height: 50vh;
+    margin-left: 22.5%;
+    margin-right: 22.5%;
+    margin-top: 3vh;
+    background: #90D4F4;
+    border-radius: 40px;
+    float: left;
+}
+section div{
+    background-color: #aae4ff;
+    float: left;
+    width: 45%;
+    height: 45vh;
+    margin-top: 2.5vh;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    border-radius: 20px;
+}
+section div p{
+    overflow-wrap: break-word;
+    width: 90%;
+    height: 90vh;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    margin-top: 4vh;
+    text-align: center;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    text-align: justify;
+    font-size-adjust: auto;
+}
+#sqlite{
+    width: 20%;
+    float: left;
+    margin-left: 40%;
+    margin-right: 40%;
+    padding: 1%;
+    background-color: #b3dff3;
+    border-radius: 10px;
+    margin-top: 2vh;
+}
+#ghub{
+    margin-top: 2vh;
+    margin-left: 46%;
+    width: 8%;
+    height: auto;
+}
